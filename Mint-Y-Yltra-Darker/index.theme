@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Mint-Y-Yltra-Darker
+Name=Mint-Y-Yltra-Darker_Purple
 Comment=A flat theme with transparent elements and dark menu and titlebars
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Mint-Y-Yltra-Darker
-MetacityTheme=Mint-Y-Yltra-Darker
+GtkTheme=Mint-Y-Yltra-Darker_Purple
+MetacityTheme=Mint-Y-Yltra-Darker_Purple
 IconTheme=Mint-Y
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close

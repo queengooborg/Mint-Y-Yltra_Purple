@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Mint-Y-Yltra-Light
+Name=Mint-Y-Yltra-Light_Purple
 Comment=A flat light theme with transparent elements
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Mint-Y-Yltra-Light
-MetacityTheme=Mint-Y-Yltra-Light
+GtkTheme=Mint-Y-Yltra-Light_Purple
+MetacityTheme=Mint-Y-Yltra-Light_Purple
 IconTheme=Mint-Y
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
