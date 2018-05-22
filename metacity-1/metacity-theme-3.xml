@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-	<name>Arc</name>
-	<author>horst3180</author>
-	<copyright>horst3180</copyright>
-	<date>2015</date>
-	<description>Arc Metacity theme</description>
+	<name>Mint-Y-Yltra-Dark_Purple</name>
+	<author>Vinyl Darkscratch</author>
+	<copyright>GNU GPL: THORiN, Vinyl Darkscratch</copyright>
+	<date>2018</date>
+	<description>Mint-Y-Yltra-Dark_Purple</description>
 </info>
 
 <!-- meaningfull constants -->
@@ -23,9 +23,9 @@
 <!-- window button colors -->
 
 <!-- close -->
-<constant name="C_button_close_bg_focused" value="gtk:custom(selected_bg_color,#3770aa)" />
-<constant name="C_button_close_bg_hover" value="shade/gtk:custom(selected_bg_color,#3770aa)/1.14" />
-<constant name="C_button_close_bg_active" value="shade/gtk:custom(selected_bg_color,#3770aa)/0.8" />
+<constant name="C_button_close_bg_focused" value="gtk:custom(selected_bg_color,#7B35AA)" />
+<constant name="C_button_close_bg_hover" value="shade/gtk:custom(selected_bg_color,#7B35AA)/1.14" />
+<constant name="C_button_close_bg_active" value="shade/gtk:custom(selected_bg_color,#7B35AA)/0.8" />
 
 <constant name="C_icon_close_bg" value="#2f2f2f" />
 
